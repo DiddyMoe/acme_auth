@@ -4,5 +4,5 @@
 > This repository is no longer maintained.
 >  
 > - Reason: learning exercise
-> - Last maintained: 2022
+> - Last maintained: 2023
 > - Use at your own risk
